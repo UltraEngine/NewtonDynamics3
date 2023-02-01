@@ -1,4 +1,4 @@
-This is a fork of [Newton Dynamics 3.14](https://github.com/MADEAPPS/newton-dynamics) for Ultra Engine.
+This is a fork of [Newton Dynamics 3.14](https://github.com/MADEAPPS/newton-dynamics) for Ultra Engine. You can use this to debug physics in Ultra Engine.
 
 License
 =======
