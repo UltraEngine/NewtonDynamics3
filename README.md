@@ -1,4 +1,4 @@
-This is a fork of [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics) for Ultra Engine.
+This is a fork of [Newton Dynamics 3.14](https://github.com/MADEAPPS/newton-dynamics) for Ultra Engine.
 
 License
 =======
